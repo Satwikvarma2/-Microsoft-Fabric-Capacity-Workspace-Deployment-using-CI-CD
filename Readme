@@ -1,0 +1,19 @@
+# 🚀 Microsoft Fabric Capacity & Workspace Deployment using CI/CD
+
+## 📌 Project Overview
+
+This project demonstrates how to provision **Microsoft Fabric Capacity** and **Fabric Workspace** using Infrastructure as Code (IaC) and automated CI/CD pipelines.
+
+The goal of this project is to simulate an enterprise-grade deployment process using:
+
+- Azure Bicep (Infrastructure as Code)
+- GitHub Actions (CI/CD)
+- Service Principal Authentication
+- Microsoft Fabric
+
+This setup ensures repeatable, automated, and environment-specific deployments.
+
+---
+
+## 🏗 Architecture
+
